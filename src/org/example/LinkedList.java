@@ -33,3 +33,4 @@ public class LinkedList {
         System.out.println();
     }
 }
+yo bratva
