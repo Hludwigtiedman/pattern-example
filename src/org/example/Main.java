@@ -7,6 +7,7 @@ public class Main {
         list.add(10);
         list.add(20);
         list.add(30);
+        list.add(20);
 
         System.out.println("Список после добавления элементов:");
         list.printList();
@@ -14,5 +15,6 @@ public class Main {
         System.out.println("Удаленный элемент: " + list.remove());
         System.out.println("Список после удаления элемента:");
         list.printList();
+
     }
 }
